@@ -29,3 +29,6 @@ cover_db/
 MYMETA.*
 
 /Types-Digest-*
+
+/.carmel
+cpanfile.snapshot

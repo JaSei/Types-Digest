@@ -54,6 +54,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/JaSei/Types-Digest/issues"
+      },
+      "homepage" : "https://github.com/JaSei/Types-Digest",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/JaSei/Types-Digest.git",
+         "web" : "https://github.com/JaSei/Types-Digest"
+      }
+   },
    "version" : "0.1.0",
    "x_authority" : "cpan:JASEI",
    "x_serialization_backend" : "JSON::PP version 2.27300"
