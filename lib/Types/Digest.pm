@@ -2,7 +2,7 @@ package Types::Digest;
 use strict;
 use warnings;
 
-our $VERSION = '0.1.1';
+our $VERSION = '0.1.2';
 
 use Type::Library -base, -declare => qw(Md5 Sha1 Sha224 Sha256 Sha384 Sha512);
 use Types::Standard qw(Str);

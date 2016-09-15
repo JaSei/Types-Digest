@@ -8,7 +8,7 @@ Types::Digest - digests types for Moose and Moo
     package Foo;
      
     use Moose;
-    use Types::Digest qw/Sha256/;
+    use Types::Digest qw/Md5 Sha256/;
      
     has md5 => (
       is  => 'ro',

@@ -65,7 +65,11 @@
          "web" : "https://github.com/JaSei/Types-Digest"
       }
    },
-   "version" : "0.1.1",
+   "version" : "0.1.2",
    "x_authority" : "cpan:JASEI",
+   "x_contributors" : [
+      "Mohammad S Anwar <mohammad.anwar@yahoo.com>",
+      "Jan Seidl <janseidl@volny.cz>"
+   ],
    "x_serialization_backend" : "JSON::PP version 2.27300"
 }
