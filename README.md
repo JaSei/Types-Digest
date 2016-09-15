@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/JaSei/Types-Digest.svg?branch=master)](https://travis-ci.org/JaSei/Types-Digest)
 # NAME
 
 Types::Digest - digests types for Moose and Moo
